@@ -1,0 +1,79 @@
+.Dublin {
+    color:blue;
+    font-weight: bold;
+    font: Arial Round;
+    font-size: 2cm;
+    text-align: center;
+}
+
+div {
+    align-self: center;
+    border: 2px;
+    border-color: black;
+    padding: 10px;
+    margin:5px;
+    width:450px;
+    height:300px;
+
+}
+
+img {
+    align-self: center;
+    width:200px
+}
+
+#music {
+    color: royalblue;
+    font-size: 30px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.Youtube {
+    vertical-align:center;
+    padding:20px;
+    font-size: 30px;
+    color:darkblue;
+    margin: 20px;
+    
+} 
+
+
+#Link {
+    align-items: center;
+    align-tracks: center;
+    align-content: center;
+    text-align: center;
+    font-size: 50px;
+    width:900px;
+    height:350px;
+}
+
+.Musiclinks {
+    margin:auto; 
+    font-weight:bold; 
+    color:lime;
+    padding: 50px;
+    font-size: 30px;
+
+
+}
+
+
+
+.Fav {
+    color:red;
+    font-size:1cm;
+    padding:25px;
+    margin:auto;
+}
+
+#Upbeat > div{
+    padding: 20px;
+    margin:auto;
+    size: 30px;
+}
+
+.border border-danger {
+    color:blueviolet;
+}
