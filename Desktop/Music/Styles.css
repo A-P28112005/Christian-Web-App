@@ -77,3 +77,10 @@ img {
 .border border-danger {
     color:blueviolet;
 }
+
+#Upbeat > div > .Youtube {
+    font-size: 30px;
+    padding: 5mm;
+    margin:auto;
+    color:black;
+}
